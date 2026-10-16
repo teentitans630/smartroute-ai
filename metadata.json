@@ -1,0 +1,6 @@
+{
+  "name": "SafeRoute AI - Highway Safety & Early Warning System",
+  "description": "Intelligent Highway Safety and Early Warning System for real-time hazard detection, advance driver warnings, and highway authority GIS incident response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
